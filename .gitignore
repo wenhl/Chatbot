@@ -1,0 +1,4 @@
+.env
+index.pkl
+venv/
+data/*.json
